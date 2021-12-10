@@ -25,7 +25,7 @@
 
 
 ## Live Demo
-To view this project, click [_here_]()
+To view this project, click [_here_](https://panagiotisk17.github.io/responsive_club_website/)
 
 
 ## Project Status
